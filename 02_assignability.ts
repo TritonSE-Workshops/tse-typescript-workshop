@@ -2,7 +2,7 @@ let age: number = 21;
 
 age = 22;     // number -> number
 
-age = "oops";  // string -> number
+age = "oops"; // string -> number
 
 
 
